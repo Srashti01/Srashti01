@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Srashti01/Srashti01/blob/main/wallpaperflare.com_wallpaper.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Srashti Soni</h1>
